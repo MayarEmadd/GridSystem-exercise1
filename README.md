@@ -23,4 +23,6 @@ This project focuses on creating a clean and responsive **grid-based design** fo
 1. Clone the repository  
 2.  Open the live demo from the link below
 
+     https://mayaremadd.github.io/GridSystem-exercise1/
+
    
